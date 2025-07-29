@@ -27,7 +27,7 @@ Uma apresentação pessoal interativa e animada desenvolvida em Vue.js, onde um 
 ### Instalação
 ```bash
 # Clone o repositório
-git clone [seu-repositorio]
+git clone [https://github.com/leodinalle/portfolio-animado.git]
 
 # Entre na pasta
 cd meu-site-animado
